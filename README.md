@@ -2,7 +2,7 @@
 
 This is a solution to the [Design preview for the Clipboard landing page coding challenge](./design/desktop-preview.jpg)
 
-## [📃💻 Website view 🖱🖥](https://)
+## [📃💻 Website view 🖱🖥](https://yashgjoshi20.github.io/Clipboard-Landing-Page-/)
 
 ## Table of contents
 
@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL:  [Solution  URL](https://github.com/yashgjoshi20/Order-Summary-Component-Using-CSS.git)
-- Live Site URL: [GitHub Pages Live URL](https://yashgjoshi20.github.io/Order-Summary-Component-Using-CSS/)
+- Solution URL:  [Solution  URL](https://github.com/yashgjoshi20/Clipboard-Landing-Page-.git)
+- Live Site URL: [GitHub Pages Live URL](https://yashgjoshi20.github.io/Clipboard-Landing-Page-/)
 
 ## My process
 
